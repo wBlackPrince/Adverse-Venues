@@ -1,0 +1,6 @@
+@AdverseVenues_HostAddress = http://localhost:5234
+
+GET {{AdverseVenues_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
